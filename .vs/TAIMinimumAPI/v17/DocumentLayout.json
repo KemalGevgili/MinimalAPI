@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kemal\\OneDrive\\Belgeler\\TAIMinimumAPI\\TAIMinimumAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10E20EAD-CA0D-4EF6-8172-644E647B4091}|TAIMinimumAPI.csproj|c:\\users\\kemal\\onedrive\\belgeler\\taiminimumapi\\taiminimumapi\\taiminimumapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10E20EAD-CA0D-4EF6-8172-644E647B4091}|TAIMinimumAPI.csproj|solutionrelative:taiminimumapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TAIMinimumAPI",
+              "DocumentMoniker": "C:\\Users\\kemal\\OneDrive\\Belgeler\\TAIMinimumAPI\\TAIMinimumAPI\\TAIMinimumAPI.csproj",
+              "RelativeDocumentMoniker": "TAIMinimumAPI.csproj",
+              "ToolTip": "C:\\Users\\kemal\\OneDrive\\Belgeler\\TAIMinimumAPI\\TAIMinimumAPI\\TAIMinimumAPI.csproj",
+              "RelativeToolTip": "TAIMinimumAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-22T19:17:05.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
